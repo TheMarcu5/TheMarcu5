@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheMarcu5
+- 👋 Hi, I’m Marcus
 - 👀 I’m interested in fullstack web development. I'm a junior developer and have been trying out different fields, but it feels like I have found what drives me to develop.
 - 🌱 I’m currently learning js, html and css. I stumbled upon react pretty quickly and it's a nice way to structure the frontend. 
 - 💞️ I’m looking to collaborate on ...
